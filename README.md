@@ -8,7 +8,7 @@
   <h2>SRE / DevOps Engineer</h2>
   <h3 align="center">A passionate devops enginer from Bolivia &#127463;&#127476</h3>
   <p>
-   🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Information Technology</strong>
+   🚀 I am currently a DevOps engineer and <strong>site reliability engineer</strong>
   </p>
 </div>
 <div align="center">
@@ -24,10 +24,23 @@
   </a>
 </div>
 <hr>
-<h2 align="center">⚒️ Languagers ⚒️</h2>
+<h2 align="center">⚒️ Languages and tools⚒️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,bash,c,javascript,typescript,express,mongodb,java,react,tailwind,mysql,flask,html,css,vscode"><br>
-  <img src="https://skillicons.dev/icons?i=ansible,kubernetes,jenkins,git,docker,aws,azure,gcp,gitlab,bitbucket,vim,github">
+  <img src="https://skillicons.dev/icons?i=javascript,bash,go,java,vuejs,react,tailwind,python,html,css,spring,ruby,rust"><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql"><br>
+</div>
+<hr>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ansible,kubernetes,jenkins,git,docker">
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus">
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,aws,azure,gcp">
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim">
 </div>
 <hr>
 <div align="center">
